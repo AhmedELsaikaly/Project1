@@ -9,4 +9,4 @@ $("#inline_content input[id ="male"]").click(function(){
 // $("#result").text("saad")	
 // }
 // })
-
+//////weplg[korgoerkgoer/]
